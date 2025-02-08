@@ -1,0 +1,23 @@
+Lecture 0 (02/07/2025)
+
+Binary:
+000 = 0
+001 = 1
+010 = 2
+011 = 3
+100 = 4
+etc...
+
+Search Algorithms:
+Search a phone book by one of three methods:
+- Check each page
+- Check every two pages, go back if passing point
+- Break into halves, go to the half of the page, look front and back, repeat
+
+Pseudocode:
+- Using natural language to express methodologies
+
+if/else:
+- statements that allow logic to be applied, conditions met to trigger actions
+
+
